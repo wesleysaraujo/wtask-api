@@ -1,0 +1,23 @@
+{
+  "name": "wtask-api",
+  "version": "1.0.0",
+  "description": "API of Task Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wesleysaraujo/wtask-api.git"
+  },
+  "author": "Wesley S. Araújo",
+  "bugs": {
+    "url": "https://github.com/wesleysaraujo/wtask-api/issues"
+  },
+  "homepage": "https://github.com/wesleysaraujo/wtask-api#readme",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "express": "^4.14.0"
+  }
+}
